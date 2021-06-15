@@ -6,17 +6,6 @@ import java.util.Scanner;
 //package com.company;
 
 public class Main {
-
-    //public static void main(String[] args) {
-	// write your code here
-    //}
-//}
-
-//import java.util.HashMap;
-  //      import java.util.Map;
-    //    import java.util.Scanner;
-
-//public class Source {
     public static void main(String args[])
     {
 
